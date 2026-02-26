@@ -28,3 +28,13 @@ body {
 .flip_vert {
   transform: scaleY(-1);
 }
+
+.обтекаемая-картинка {
+  width: 300px;
+  float: left;
+  margin: 0 20px 20px 20px;
+}
+
+.выравнивание-текста {
+  text-align: center;
+}
